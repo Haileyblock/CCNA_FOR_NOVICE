@@ -11,3 +11,5 @@ RESOURCES:
 3. ...
 
 DAY 1: OSI Model vs TCP/IP Model
+
+Networking Devices, Interfaces & Cables, OSI Model và TCP/IP
