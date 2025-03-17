@@ -1,16 +1,22 @@
-# CCNA_FOR_NOVICE
-CCNA detail note for people who are lost (just like me)
+**CCNA_FOR_NOVICE**
+CCNA detail note for people who just jump into the network and cyber word (just like me)
 
-WHAT THIS NOTE INCLUDE
-1. CCNA test main topics
+**WHAT THIS NOTE INCLUDES**
+1. CCNA main topics
 2. Lab
+...
 
-RESOURCES:
+**RESOURCES**
 1. CCNA 200-301 Official Cert Guide, Volume 1 + 2 -  WENDELL ODOM. 
 2. [CCNA_Course_Notes](https://github.com/psaumur/CCNA_Course_Notes)
 3. GeeksforGeeks.org
 4. ...
 
-DAY 1: OSI Model vs TCP/IP Model
+**MY PLAN**
+_**DAY 1: OSI Model vs TCP/IP Model**_
+- Networking Devices, Interfaces & Cables
+- OSI Model vs TCP/IP
 
-Networking Devices, Interfaces & Cables, OSI Model và TCP/IP
+_**DAY 2: SWITCHING AND IPV4**_
+- Switching, Mac-address, ARP
+- IPv4
