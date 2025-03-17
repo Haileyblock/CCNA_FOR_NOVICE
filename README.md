@@ -8,7 +8,8 @@ WHAT THIS NOTE INCLUDE
 RESOURCES:
 1. CCNA 200-301 Official Cert Guide, Volume 1 + 2 -  WENDELL ODOM. 
 2. [CCNA_Course_Notes](https://github.com/psaumur/CCNA_Course_Notes)
-3. ...
+3. GeeksforGeeks.org
+4. ...
 
 DAY 1: OSI Model vs TCP/IP Model
 
