@@ -13,6 +13,7 @@ CCNA detail note for people who just jump into the network and cyber word (just 
 4. ...
 
 **MY PLAN**
+
 _**DAY 1: OSI Model vs TCP/IP Model**_
 - Networking Devices, Interfaces & Cables
 - OSI Model vs TCP/IP
