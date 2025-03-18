@@ -83,6 +83,17 @@ II. OSI model (Open System Interconnection)
 6. Presentation
 7. Application
 
+Packet Tracer - Investigate the TCP/IP and OSI models in action
+
+**Overview**
+- data broken down into smaller pieces (for identification purpose) -> put back together when they arrive (encapsulation process)
+- each piece has specific name and belong to different layer
+
+I. Part 1: Examine HTTP Web Traffic 
+
+
+
+
 
 
 
