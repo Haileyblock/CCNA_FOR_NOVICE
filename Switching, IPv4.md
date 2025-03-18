@@ -1,21 +1,29 @@
+**WHAT IS SWITCH?**
 
 **Switching (chuyển mạch)**
-- Transferring data packets from one device to another in a network, from 1 network to the other
-- Manage data traffic and ensure data come to right place
-- Tydo
+- Switching = the procees of transferring data from this place/device -> another place/ device
+- Data-link layer
+
+**Switch**
+- Hardware device: help devices share data in one network without collision with each other.
+- Data need to go to another network: the switch sends it to a router
+
+**HOW DOES SWITCH WORK?**
+
+**Switching Process **
+- Frame Reception
+- MAC Address Extraction
+- MAC Address Table Lookup
+- Forwarding Decision and Switching Table Update
+- Frame Transition
+
+
+
 
 **Mac addres (Media Access Control)**
+
+
 **ARP (Address Resolution Control)**
 
-- Find the hardware address (data-link layers): res
-+ circuit Switching
-+ packet switching
-+ megggase swithing
 
-
-
-**frame reoception**
-- MAC Address Resolution
-- reverse ARP
-- Proxy ARP
-- Inverse ARP
+**IPv4**
