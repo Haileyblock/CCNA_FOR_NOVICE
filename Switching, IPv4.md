@@ -10,15 +10,12 @@
 
 **HOW DOES SWITCH WORK?**
 
-**Switching Process **
+**Switching Process**
 - Frame Reception
-- MAC Address Extraction
+- MAC Admac dress Extraction
 - MAC Address Table Lookup
 - Forwarding Decision and Switching Table Update
 - Frame Transition
-
-
-
 
 **Mac addres (Media Access Control)**
 
