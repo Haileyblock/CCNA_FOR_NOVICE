@@ -58,12 +58,37 @@ Networking model = protocol + physical requirements
 
 **NETWORK LAYER**
 - Many protocol, but one major protocol: IP (Internet Protocol)
-- Lower layers: a postal service 
+- Example: IP Basics: identify the name of end devices + group devices
+- Dotted-Decimal notation (DDN)
+- IP Routing (Tìm địa chỉ của IP và định ra tuyến đường)
+  - Step 1: Larry server send packet to nearby router on the same LAN, it recognizes the IP address and send it to the target
+  - Step 2: Repeat the process
 
+**DATA-LINK AND PHYSICAL LAYERS**
+- Many protocols and standards
+- Ethernet frame examples
+- The physcial transmission of data
+  - Step 1: Encapsulate IP Packet between Ethernet header and Ethernet Trailer (Ethernet frame)
+  - Step 2: Physically transmit it through the Ethernet cabling
+  - Step 3: Receive the electrical signal
+  - Step 4: De-encapsulate by removing the Ethernet header and trailer
 
-  
-  
+**ENCAPSULATION PROCESS**
+- /encapsulated/ 
+HEADER/IP HEADER/TCP HEADER/HTTP HEADER/The content of the page/TRAILER
+- SEGMENT: transport layer
+- PACKET: network layer
+- FRAME: link layer
 
+**OSI MODEL AND TERMINOLOGY**
+- OSI commonly used by networking vendors, companies
+- TERMINOLOGY: PROTOCOL DATA UNIT (PDU)
+- L7PDU APPLICATION
+- L6PDU PRESENTATION
+- L5PDU SESSION
+- L4PDU TRANSPORT
+- L3PDU NETWORK
+- L2PDU DATA LINK
 
   
  
