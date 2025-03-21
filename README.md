@@ -1,5 +1,5 @@
 **CCNA_FOR_NOVICE**
-CCNA detail note for people who just jump into the network and cyber word (just like me)
+CCNA detail note for people who just jump into the network and cyber word
 
 **WHAT THIS NOTE INCLUDES**
 1. CCNA main topics
