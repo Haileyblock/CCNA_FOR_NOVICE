@@ -57,9 +57,9 @@ Three-way handshake (https://vienthongxanh.vn/quy-trinh-bat-tay-3-buoc-tcp/?srsl
 - Operation System developed from Linux
 
 **Byte**
-1 bit = 0 or 1
-1 byte (B) = 8 bits
-1 kilobyte (KB) = 1024 Bytes
-1 megabyte (MB) = 1024 Bytes
-1 Gigabyte (GB) = 1024 Bytes
-tera, peta, exa, zetta, yotta...
+- 1 bit = 0 or 1
+- 1 byte (B) = 8 bits
+- 1 kilobyte (KB) = 1024 Bytes
+- 1 megabyte (MB) = 1024 Bytes
+- 1 Gigabyte (GB) = 1024 Bytes
+- tera, peta, exa, zetta, yotta...
