@@ -23,7 +23,11 @@ Three-way handshake (https://vienthongxanh.vn/quy-trinh-bat-tay-3-buoc-tcp/?srsl
 - Blind Carbon Copy: send it to a lot of people, and nobody knows each other.
 
 **High RAM performance server**
-- RAM lên cao
+- RAM lên cao ở sophos endpoint -> see the Product Analysis to analyze the problems (because it describes possible scenarios that we may face)
+- If it happens next time, contact the Sophos support team immediately
+- https://support.sophos.com/support/s/article/KBA-000009704?language=en_US
+- According to the Screenshots, Sophos was consuming 40 - 50 GB of memory (not expected, gradually increase).
+- Can check what are running from the task management. 
 
 **Peripheral device (thiết bị ngoại vi)**
 - Thiết bị được kết nối bên ngoài máy tính với mục dích mở rộng chức năng hoặc cung cấp thêm tính năng bổ sung cho máy tính
@@ -52,3 +56,10 @@ Three-way handshake (https://vienthongxanh.vn/quy-trinh-bat-tay-3-buoc-tcp/?srsl
 **Ubuntu**
 - Operation System developed from Linux
 
+**Byte**
+1 bit = 0 or 1
+1 byte (B) = 8 bits
+1 kilobyte (KB) = 1024 Bytes
+1 megabyte (MB) = 1024 Bytes
+1 Gigabyte (GB) = 1024 Bytes
+tera, peta, exa, zetta, yotta...
