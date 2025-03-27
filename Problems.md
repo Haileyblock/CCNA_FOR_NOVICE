@@ -63,3 +63,35 @@ Three-way handshake (https://vienthongxanh.vn/quy-trinh-bat-tay-3-buoc-tcp/?srsl
 - 1 megabyte (MB) = 1024 Bytes
 - 1 Gigabyte (GB) = 1024 Bytes
 - tera, peta, exa, zetta, yotta...
+
+**Cách bấm dây mạng đúng kỹ thuật** (https://vienthongxanh.vn/cach-bam-day-mang-sao-cho-chuan-va-chinh-xac/)
+- Chuẩn A (T568A) và Chuẩn B (T568B)
+- T568A: 1. TRẮNG-XANH LÁ 2. XANH LÁ 3. TRẮNG-CAM 4. XANH DƯƠNG 5. TRẮNG XANH DƯƠNG 6. CAM 7. TRẮNG NÂU 8. NÂU
+- T568B: 1. TRẮNG-CAM 2. CAM 3. TRẮNG XANH LÁ 4. XANH DƯƠNG 5. TRẮNG XANH DƯƠNG 6. XANH LÁ 7. TRẮNG NÂU 8. NÂU  
+
+![image](https://github.com/user-attachments/assets/c94ed791-71df-4956-a6cc-ac8eeaaa9d8a)
+
+**Cáp thẳng, cáp chéo** 
+Đầu nối RJ45 CÓ 2 tiêu chuẩn: T568A và T568B
+- Straight-Through Cable Pinout (Cáp thẳng)
+  - Cả hai đầu có cùng kiểU bấm. 
+  - được sử dụng rộng rãi hơn.
+- Cross-over cable (Cáp chéo)
+  - Khác kiểu bấm 
+
+ **Tại sao lại có sự khác biệt giữa cáp thẳng và cáp chéo? Liệu cùng loại có sử dụng cáp thẳng được không? và khác loại thì dùng cáp chéo được không?**
+ - Trong mạng Ethernet, các dây không chỉ truyền và còn nhận tín hiệu (TX - RX)
+ - Thiết bị end point thì thường truyền dữ liệu qua chân 1, 2 và nhận dữ liệu ở chân 3, 6.
+ - Lý do tại sao lại thường truyền qua chân 1, 2 vì: Quy ước của chuẩn Ethernet cho 10BASE-T và 100BASE-TX (2 cặp dây = 4 dây, vì để giảm chi phí sản xuất cáp, nhưng từ Gigabit = Ethernet thì toàn bộ 8 dây đều được sử dụng để tăng tốc độ truyền dữ liệu) 
+ - Thiết bị trung gian thì thường truyền dữ liệu qua chân 3,6 và nhận dữ liệu ở chân 1, 2.
+ - -> Khi kết nối 2 thiết bị giống nhau bằng cáp thẳng, thì dữ liệu sẽ giống như cố nói chuyện nhưng không bên nào nghe -> phải dùng cáp chéo (và ngược lại)
+ - Nhưng hiện tại đã có AUTO-MDIX (tự động nhận diện loại kết nối và hoán đổi tín hiệu TX/RX nếu cần)
+ - Hiện tại thường dùng chuẩn B, không dùng chuẩn A.
+
+**Cách tạo ra địa chỉ MAC address**
+- Nhà sản xuất hỏi IEEE để họ cho nhà sản xuất một mã 3 byte độc quyề. (OUI = Organizationally unique identifier) -> IEE đồng ý đưa mã -> nhà sản xuất còn + thêm 3 mã mà họ chưa bao giờ sử dụng
+![image](https://github.com/user-attachments/assets/8be4fc16-2e69-4071-b01a-9e5aaf3dc1dd)
+
+
+ 
+ 
