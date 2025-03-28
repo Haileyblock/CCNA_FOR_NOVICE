@@ -89,8 +89,9 @@ Three-way handshake (https://vienthongxanh.vn/quy-trinh-bat-tay-3-buoc-tcp/?srsl
  - Hiện tại thường dùng chuẩn B, không dùng chuẩn A.
 
 **Cách tạo ra địa chỉ MAC address**
-- Nhà sản xuất hỏi IEEE để họ cho nhà sản xuất một mã 3 byte độc quyề. (OUI = Organizationally unique identifier) -> IEE đồng ý đưa mã -> nhà sản xuất còn + thêm 3 mã mà họ chưa bao giờ sử dụng
+- Nhà sản xuất hỏi IEEE để họ cho nhà sản xuất một mã 3 byte độc quyền. (OUI = Organizationally unique identifier) -> IEE đồng ý đưa mã -> nhà sản xuất còn + thêm 3 mã mà họ chưa bao giờ sử dụng
 ![image](https://github.com/user-attachments/assets/8be4fc16-2e69-4071-b01a-9e5aaf3dc1dd)
+
 
 
  
