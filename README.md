@@ -18,6 +18,9 @@ _**DAY 1 + 2 + 3: OSI Model vs TCP/IP Model**_
 - Networking Devices, Interfaces & Cables
 - OSI Model vs TCP/IP
 
-_**DAY 4: SWITCHING AND IPV4**_
+_**DAY 4 + 5 + 6 +7 : SWITCHING AND IPV4**_
 - Switching, Mac-address, ARP
 - IPv4
+
+_**DAY 8: ROUTING AND SUBNETTING**_
+- Static route, subnetting
