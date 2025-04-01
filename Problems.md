@@ -92,7 +92,17 @@ Three-way handshake (https://vienthongxanh.vn/quy-trinh-bat-tay-3-buoc-tcp/?srsl
 - Nhà sản xuất hỏi IEEE để họ cho nhà sản xuất một mã 3 byte độc quyền. (OUI = Organizationally unique identifier) -> IEE đồng ý đưa mã -> nhà sản xuất còn + thêm 3 mã mà họ chưa bao giờ sử dụng
 ![image](https://github.com/user-attachments/assets/8be4fc16-2e69-4071-b01a-9e5aaf3dc1dd)
 
+**EoMPLS**
+- EoMPLS: Multiprotocol Label Switching: công nghệ cho phép truyền tải Ethernet qua mạng MPLS
+  MPLS: định tuyến dựa trên nhãn (label) để tăng tốc độ truyền dữ liệu
+  EoMPLS: Gói tin Ethernet được đóng gói và truyền qua mạng MPLS như thể nào?
+   
 
+**Dây sạc Tai xi 65w**
+
+LÀM CÁCH địa chỉ IP LẠI TỚI ĐƯỢC SUBNET KHÁC?
+
+LÀM CÁCH NÀO MÀ bit lại ra đời và làm sao người ta nghĩ ra được cách chia dữ liệu thành từng gói nhỏ?
 
 
 
