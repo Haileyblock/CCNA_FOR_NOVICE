@@ -105,6 +105,9 @@ LÀM CÁCH địa chỉ IP LẠI TỚI ĐƯỢC SUBNET KHÁC?
 LÀM CÁCH NÀO MÀ bit lại ra đời và làm sao người ta nghĩ ra được cách chia dữ liệu thành từng gói nhỏ?
 
 
+bandwidth
+
+
 
  
  
