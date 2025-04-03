@@ -79,6 +79,8 @@ Three-way handshake (https://vienthongxanh.vn/quy-trinh-bat-tay-3-buoc-tcp/?srsl
 - Cross-over cable (Cáp chéo)
   - Khác kiểu bấm 
 
+
+
  **Tại sao lại có sự khác biệt giữa cáp thẳng và cáp chéo? Liệu cùng loại có sử dụng cáp thẳng được không? và khác loại thì dùng cáp chéo được không?**
  - Trong mạng Ethernet, các dây không chỉ truyền và còn nhận tín hiệu (TX - RX)
  - Thiết bị end point thì thường truyền dữ liệu qua chân 1, 2 và nhận dữ liệu ở chân 3, 6.
@@ -121,10 +123,14 @@ màn hình 60Hz, 24Hz
 - Anh Trường bảo làm kỹ thuật phải biết đọc log để còn phân tích và xử lý lỗi.
 - mấy anh mặc vest nói tiếng anh thì là product management (làm việc với hãng), mình không biết làm gì
 - Anh Tuấn Anh thì làm Presale rùi.
+- chị nhật anh là kế toán hehe
 
 - license là gì? tại sao phải mua? agent là cái khỉ gì?
 - 2 mũ 2: 2 squared
-- 
+
+
+ - classful network???
+ - bandwidth testing method
 
 
  
