@@ -107,6 +107,24 @@ LÀM CÁCH NÀO MÀ bit lại ra đời và làm sao người ta nghĩ ra đư�
 
 bandwidth
 
+Các loại dây + phần cứng cơ bản
+
+mật khẩu tamper
+
+gói thầu là gì? 
+
+màn hình 60Hz, 24Hz
+
+- chị Tâm và anh Chung làm endpoint (Zecurion...) + làm việc với khách + hãng để biết trao đổi và cấu hình cho khách (dù mình thấy đa số họ đều có kỹ năng công nghệ). Mình sẽ đóng vai trò trung gian. (như case endpoint mà hôm nọ mình tham gia)
+- Anh Đại và anh Thắng làm bên Sophos Firewall.
+- thế còn anh Hiếu...
+- Anh Trường bảo làm kỹ thuật phải biết đọc log để còn phân tích và xử lý lỗi.
+- mấy anh mặc vest nói tiếng anh thì là product management (làm việc với hãng), mình không biết làm gì
+- Anh Tuấn Anh thì làm Presale rùi.
+
+- license là gì? tại sao phải mua? agent là cái khỉ gì?
+- 2 mũ 2: 2 squared
+- 
 
 
  
