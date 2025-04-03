@@ -1,5 +1,6 @@
 **CCNA_FOR_NOVICE**
 CCNA detail note for people who just jump into the network and cyber word
+TOI LA NAN NHAN CỦA NETWORKING
 
 **WHAT THIS NOTE INCLUDES**
 1. CCNA main topics
