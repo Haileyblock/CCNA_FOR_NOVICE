@@ -96,9 +96,15 @@ Three-way handshake (https://vienthongxanh.vn/quy-trinh-bat-tay-3-buoc-tcp/?srsl
 
 **EoMPLS**
 - EoMPLS: Multiprotocol Label Switching: công nghệ cho phép truyền tải Ethernet qua mạng MPLS
-  MPLS: định tuyến dựa trên nhãn (label) để tăng tốc độ truyền dữ liệu
-  EoMPLS: Gói tin Ethernet được đóng gói và truyền qua mạng MPLS như thể nào?
-   
+  
+- MPLS: định tuyến dựa trên nhãn (label) để tăng tốc độ truyền dữ liệu
+  - giữ nguyên gói tin và dán nhãn cho chúng, chuyển tiếp nhanh mà không cần phân tích IP Header mỗi lần.
+  - EoMPLS: Gói tin Ethernet được đóng gói và truyền qua mạng MPLS như thể nào?
+  - Ethernet gốc sẽ được đóng gói lại, đi xuyên qua mạng MPLS như một ống (tunnel), và khi đến đích thì mở ra như cũ
+  - Ethernet gốc sẽ được đóng thêm (Inner label - transport label) 
+
+MPLS sẽ xử lý lớp 3 - đảm bảo rằng IP Packet sẽ được giữ nguyên
+EoMPLS sẽ xử lý lớp 2 - đảm bảo rằng cả IP, cả MAC sẽ được giữ nguyên. 
 
 **Dây sạc Tai xi 65w**
 
@@ -117,13 +123,13 @@ gói thầu là gì?
 
 màn hình 60Hz, 24Hz
 
-- chị Tâm và anh Chung làm endpoint (Zecurion...) + làm việc với khách + hãng để biết trao đổi và cấu hình cho khách (dù mình thấy đa số họ đều có kỹ năng công nghệ). Mình sẽ đóng vai trò trung gian. (như case endpoint mà hôm nọ mình tham gia)
-- Anh Đại và anh Thắng làm bên Sophos Firewall.
-- thế còn anh Hiếu...
+- chị Tâm và anh Chung làm endpoint (Zecurion, OPSWAT...) + làm việc với khách + hãng để biết trao đổi và cấu hình cho khách. Mình sẽ đóng vai trò trung gian. (như case endpoint mà hôm nọ mình tham gia)
+- Anh Đại và anh Thắng làm bên quản lý Sophos Firewall.
+- thế còn anh Hiếu cái gì cũng làm 
 - Anh Trường bảo làm kỹ thuật phải biết đọc log để còn phân tích và xử lý lỗi.
-- mấy anh mặc vest nói tiếng anh thì là product management (làm việc với hãng), mình không biết làm gì
+- Mấy anh mặc vest nói tiếng anh (có anh Thái) thì là product management (làm việc với hãng
 - Anh Tuấn Anh thì làm Presale rùi.
-- chị nhật anh là kế toán hehe
+- Chị nhật anh là kế toán?
 
 - license là gì? tại sao phải mua? agent là cái khỉ gì?
 - 2 mũ 2: 2 squared
