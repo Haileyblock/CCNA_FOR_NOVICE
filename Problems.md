@@ -131,6 +131,8 @@ màn hình 60Hz, 24Hz
 - Anh Tuấn Anh thì làm Presale rùi.
 - Chị Nhật Anh là kế toán?
 - 08.04: mình được nhìn chị Tâm và anh Thắng ký phiếu nghiệm thu của nhà thầu
+- mình thấy Thực làm tham chiếu
+- mình thấy chị Tâm yêu làm về OPSWAT, vậy tại sao khi bật tab mới thì lại thấy logo của OPSWAT?
 
 - license là gì? tại sao phải mua? agent là cái khỉ gì?
 - 2 mũ 2: 2 squared
