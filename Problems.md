@@ -1,3 +1,5 @@
+
+
 HTTP Code (https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 - 1XX: Information Response
 - 2XX: Successful
@@ -136,11 +138,43 @@ màn hình 60Hz, 24Hz
 
 - license là gì? tại sao phải mua? agent là cái khỉ gì?
 - 2 mũ 2: 2 squared
+- spec: thông số kỹ thuât
+- audit
+
+- NAT của địa chỉ IP nội bộ (NAT Rule)
+- D NAT (DESTINATION NAT): CHUYỂN ĐỔI ĐỊA CHỈ IP ĐÍCH, Phải học
+- audit cho anh Thắng kiểm tra
+- NAT VÀO, NAT RA
+- liên quan đến interface, thì đặt địa chỉ IP.
+- nó NAT ra interface, tương tự như việc gán port vào trong destination
+- Cisco: NAT overload
+- source NAT: bình thường thì NAT 1-1...
+- classful network???
+- bandwidth testing method
+- VPN tunnel
+- gateway route -> NAT -> static route?
+- TCP/ UDP: multicast, unicast
+
+https://vietnix.vn/vpn-tunnel/
 
 
- - classful network???
- - bandwidth testing method
 
+
+metric 
+định tuyến động 
+định tuyến tĩnh 
+
+LATETLY 
+BANDWIDTH 
+OSPF
+DISTANCE 
+NEXT HOP (ĐẾM)
+GIAO THỨC ĐỊNH TUYẾN
+ĐỊNH TUYẾN HYBRID
+OSPF: BÌNH BẦU (Xếp theo loop back interface
+Stranning tree protocol
+TAB MODE (PHÂN TÍCH, LẮNG NGHE)
+auto map
 
  
  
