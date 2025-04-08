@@ -129,7 +129,8 @@ màn hình 60Hz, 24Hz
 - Anh Trường bảo làm kỹ thuật phải biết đọc log để còn phân tích và xử lý lỗi.
 - Mấy anh mặc vest nói tiếng anh (có anh Thái) thì là product management (làm việc với hãng
 - Anh Tuấn Anh thì làm Presale rùi.
-- Chị nhật anh là kế toán?
+- Chị Nhật Anh là kế toán?
+- 08.04: mình được nhìn chị Tâm và anh Thắng ký phiếu nghiệm thu của nhà thầu
 
 - license là gì? tại sao phải mua? agent là cái khỉ gì?
 - 2 mũ 2: 2 squared
