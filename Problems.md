@@ -176,5 +176,11 @@ Stranning tree protocol
 TAB MODE (PHÂN TÍCH, LẮNG NGHE)
 auto map
 
+subnet mask: mặt nạ mạng con này sẽ quyết 
+
+Về địa chỉ IPv4 
+Lớp A: 1.0.0.0
+Lớp B: 172.16.0.0 - 172.31.0.0
+Lớp c: 192.168.0.0 - 192.168.255.0
  
  
