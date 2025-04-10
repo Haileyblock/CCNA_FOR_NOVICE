@@ -135,10 +135,12 @@ màn hình 60Hz, 24Hz
 - 08.04: mình được nhìn chị Tâm và anh Thắng ký phiếu nghiệm thu của nhà thầu
 - mình thấy Thực làm tham chiếu
 - mình thấy chị Tâm yêu làm về OPSWAT, vậy tại sao khi bật tab mới thì lại thấy logo của OPSWAT?
+- anh Đoàn làm dulicate việc?
+- điều quan trọng: luôn phải report công việc
 
 - license là gì? tại sao phải mua? agent là cái khỉ gì?
 - 2 mũ 2: 2 squared
-- spec: thông số kỹ thuât
+- spec: bản chỉ dẫn kỹ thuật
 - audit
 
 - NAT của địa chỉ IP nội bộ (NAT Rule)
