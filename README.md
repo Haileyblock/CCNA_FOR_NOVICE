@@ -25,4 +25,4 @@ _**DAY 4 + 5 + 6 +7 : SWITCHING AND IPV4**_
 - IPv4
 
 _**DAY 8: ROUTING AND SUBNETTING**_
-- Static route, subnetting
+- (Mất 3 tuần để mình học cái phần quỷ này, mà thi thoảng vẫn chưa hiểu vài phần) Static route, subnetting
