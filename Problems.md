@@ -184,5 +184,31 @@ Về địa chỉ IPv4
 Lớp A: 1.0.0.0
 Lớp B: 172.16.0.0 - 172.31.0.0
 Lớp c: 192.168.0.0 - 192.168.255.0
- 
+
+Quy hoạch mạng trong đời thật?
+Chọn IP public or private? Những số đầu?
+IP Private (địa chỉ IP riêng): dành cho mạng nội bộ, không thể truy cập trực tiếp từ Internet
+	Class A: 10.0.0.0 -> 10.255.255.255
+	Class B: 172.16.0.0 -> 172.31.255.255
+	Class C: 192.168.0.0 -> 192.168.255.255
+IP Public (địa chỉ IP công cộng): cấp bởi ISP (nhà cung cấp Internet)
+	8.8.8.8
+	
+Lưu ý: 
+1.	Chọn IP Private 
+2.	Không trùng dải IP giữa các subnet
+3.	Dễ quản lý và nhớ
+
+Q: vậy tại sao lại là 192.168 mà không phải là octet 197 hay 120 ạ? Vì Class C chạy từ 192 -> 223 cơ mà ạ?
+- Theo lý thuyết:
+Class A (/8): chạy từ 1.0.0.0 - 126.0.0.0...
+Class B (/16): 128.0.0.0 - 191.255.0.0...
+Class C (/24): 192.0.0.0 - 223.255.255.0...
+
+Dải IP hợp lệ (Private)
+Class A/8: 10.0.0.0 - 10.255.255.255 (mạng cực lớn) 
+Class B/16: 172.16.0.0 – 172.31.255.255 (lớn vừa)
+Class C/: 192.168.0.0 - 192.168.255.255 (nhỏ - doanh nghiệp vừa)
+
+
  
