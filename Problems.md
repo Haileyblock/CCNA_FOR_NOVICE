@@ -137,6 +137,7 @@ màn hình 60Hz, 24Hz
 - mình thấy chị Tâm yêu làm về OPSWAT, vậy tại sao khi bật tab mới thì lại thấy logo của OPSWAT?
 - anh Đoàn làm dulicate việc?
 - điều quan trọng: luôn phải report công việc
+- 28/04: chị Tâm cho mình nước đỗ, ngon bá cháy. Đang đau cổ họng uống một miếng là nguôi liền
 
 - license là gì? tại sao phải mua? agent là cái khỉ gì?
 - 2 mũ 2: 2 squared
