@@ -138,6 +138,7 @@ màn hình 60Hz, 24Hz
 - anh Đoàn làm dulicate việc?
 - điều quan trọng: luôn phải report công việc
 - 28/04: chị Tâm cho mình nước đỗ, ngon bá cháy. Đang đau cổ họng uống một miếng là nguôi liền
+- Chị Quý Anh Sơn quá đáng yêu má ơi là má
 
 - license là gì? tại sao phải mua? agent là cái khỉ gì?
 - 2 mũ 2: 2 squared
